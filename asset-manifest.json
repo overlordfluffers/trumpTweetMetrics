@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.45675a1f.chunk.css",
-    "main.js": "/static/js/main.3cf3530d.chunk.js",
-    "main.js.map": "/static/js/main.3cf3530d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a16a075e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a16a075e.js.map",
-    "static/js/2.7b673f78.chunk.js": "/static/js/2.7b673f78.chunk.js",
-    "static/js/2.7b673f78.chunk.js.map": "/static/js/2.7b673f78.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.41c643ade05741b83d53595f69a9efea.js": "/precache-manifest.41c643ade05741b83d53595f69a9efea.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.45675a1f.chunk.css.map": "/static/css/main.45675a1f.chunk.css.map"
+    "main.css": "/trumpTweetMetrics/static/css/main.45675a1f.chunk.css",
+    "main.js": "/trumpTweetMetrics/static/js/main.e53ac328.chunk.js",
+    "main.js.map": "/trumpTweetMetrics/static/js/main.e53ac328.chunk.js.map",
+    "runtime-main.js": "/trumpTweetMetrics/static/js/runtime-main.a221da90.js",
+    "runtime-main.js.map": "/trumpTweetMetrics/static/js/runtime-main.a221da90.js.map",
+    "static/js/2.7b673f78.chunk.js": "/trumpTweetMetrics/static/js/2.7b673f78.chunk.js",
+    "static/js/2.7b673f78.chunk.js.map": "/trumpTweetMetrics/static/js/2.7b673f78.chunk.js.map",
+    "index.html": "/trumpTweetMetrics/index.html",
+    "precache-manifest.98f1792f81410103e5982c08bc42e9da.js": "/trumpTweetMetrics/precache-manifest.98f1792f81410103e5982c08bc42e9da.js",
+    "service-worker.js": "/trumpTweetMetrics/service-worker.js",
+    "static/css/main.45675a1f.chunk.css.map": "/trumpTweetMetrics/static/css/main.45675a1f.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a16a075e.js",
+    "static/js/runtime-main.a221da90.js",
     "static/js/2.7b673f78.chunk.js",
     "static/css/main.45675a1f.chunk.css",
-    "static/js/main.3cf3530d.chunk.js"
+    "static/js/main.e53ac328.chunk.js"
   ]
 }
